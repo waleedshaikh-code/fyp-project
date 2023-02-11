@@ -1,0 +1,9 @@
+ADMIN : 
+
+username : umershaikh@vanon.com
+password: 123456
+
+VENDOR: 
+
+username: gpinnigar2@gmpg.org
+password: 8MUMXBOj94T
